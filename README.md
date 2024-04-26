@@ -1,2 +1,11 @@
 # GLOBAL-IMMIGRATION-INSIGHTS
 GLOBAL IMMIGRATION INSIGHTS
+
+Migration is a multifaceted phenomenon characterized by the displacement of individuals or groups, factors including wars, climatic conditions, political unrest, and economic opportunities. This global movement encompasses refugees, internally displaced persons, economic migrants, and individuals relocating for various reasons.
+
+Human migration involves the relocation of individuals, families, or groups from one place to another, with the aim of establishing residence, either permanently or temporarily, in a new location. This movement typically spans long distances and crosses international borders. Approximately 272 million individuals are international migrants globally. Though this figure constitutes only 3.5% of the global population, it exceeds some anticipated projections for 2040. Notably, since 1970, the count of individuals residing in countries different from their birthplaces has tripled. Migration occurs for various reasons such as economic migration which entails relocating to seek employment opportunities or pursue a specific career trajectory.
+
+Social Migration individuals may move to enhance their quality of life or to be nearer to family or friends, seeking social connections and support networks. Political Migration involves fleeing political persecution or conflict zones, seeking refuge and safety in other regions or countries. Environmental Migrations with the natural disasters like fires and floods can compel people to migrate as they seek safer and more sustainable living conditions, away from environmental hazards. These categories encapsulate the diverse factors driving human mobility across the globe.
+
+Machine learning offers innovative avenues for understanding and predicting migration patterns. ML algorithms can analyze datasets to model migration trends and forecast future movements with increasing accuracy. By leveraging techniques, countries and organizations can anticipate immigration trends, aiding in strategic planning and policy formulation. In this study, various ML algorithms including Support Vector Machines (SVM), Naive Bayes (NB), Logistic Regression (LR), K-Nearest Neighbors (KNN), Random Forest (RF) were employed to predict the number of immigrants and the country. 
+
